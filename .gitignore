@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.tsv.gz
+*.gpkg
+*.csv
+*.xlsx
+!example_model_results.xlsx
+uv.lock
