@@ -44,7 +44,7 @@ The groups of causes of death evaluated are:
 - **I**: Diseases of the circulatory system (I00-I99)
 - **J**: Diseases of the respiratory system (J00-J99)
 - **K**: Diseases of the digestive system (K00-K93)
-
+  
 Below is a summary of the predictions and errors obtained:
 
 | ICD-10 (CIM-10) | Deaths | Prediction | Error | MAE | RMSE | R<sup>2</sup> | SMAPE |
