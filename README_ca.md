@@ -1,6 +1,14 @@
 # Predicció de Mortalitat Sanitària a Europa (NUTS)  
 ### Modelatge Predictiu basat en Machine Learning utilitzant Dades Demogràfiques i Espacials  
 
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)  
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-green.svg)](https://lightgbm.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red.svg)](https://xgboost.readthedocs.io/)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-yellow.svg)](https://geopandas.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
 Model predictiu per estimar la mortalitat per causes CIM-10 (ICD-10) a les regions europees utilitzant machine learning i dades demogràfiques.  
 
 ## Traduccions
@@ -189,6 +197,6 @@ Nota final: 9.02 / 10
 - A Alfons Marquès i Cancio, director del treball, per la seva paciència i els seus suggeriments.
 
 ## Llicència
-Aquest projecte i la seva fonamentació teòrica, basada en el Treball de Final de Grau original, es distribueixen sota la llicència [Creative Commons Attribution 3.0 España (CC BY 3.0 ES)](https://creativecommons.org/licenses/by/3.0/es/).
+Aquest projecte i la seva fonamentació teòrica, basada en el Treball de Final de Grau original, es distribueixen sota la llicència [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 _Abril 2026_

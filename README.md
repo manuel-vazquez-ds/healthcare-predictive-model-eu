@@ -1,6 +1,14 @@
 # Healthcare Mortality Prediction in Europe (NUTS)  
 ### Machine Learning-based Predictive Modeling using Demographic and Spatial Data  
 
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)  
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-green.svg)](https://lightgbm.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red.svg)](https://xgboost.readthedocs.io/)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-yellow.svg)](https://geopandas.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
 Predictive model for estimating mortality by ICD-10 causes across European regions using machine learning and demographic data.
 
 ## Translations
@@ -189,7 +197,7 @@ Final grade: 9.02 / 10
 - To Alfons Marquès i Cancio, Director of the thesis, for his patience and suggestions.
 
 ## License
-This project and its theoretical foundation, based on the original Bachelor's Thesis, are distributed under the [Creative Commons Attribution 3.0 Spain (CC BY 3.0 ES)](https://creativecommons.org/licenses/by/3.0/es/) license.
+This project and its theoretical foundation, based on the original Bachelor's Thesis, are distributed under the [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 _April 2026_
 

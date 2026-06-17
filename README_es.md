@@ -1,6 +1,14 @@
 # Predicción de Mortalidad Sanitaria en Europa (NUTS)  
 ### Modelado Predictivo basado en Machine Learning utilizando Datos Demográficos y Espaciales  
 
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)  
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-green.svg)](https://lightgbm.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red.svg)](https://xgboost.readthedocs.io/)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-yellow.svg)](https://geopandas.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
 Modelo predictivo para estimar la mortalidad por causas CIM-10 (ICD-10) en las regiones europeas utilizando machine learning y datos demográficos.  
 
 ## Traducciones
@@ -189,6 +197,6 @@ Nota final: 9.02 / 10
 - A Alfons Marquès i Cancio, director del trabajo, por su paciencia y sus sugerencias.
 
 ## Licencia
-Este proyecto y su fundamentación teórica, basada en el Trabajo de Final de Grado original, se distribuyen bajo la licencia [Creative Commons Attribution 3.0 España (CC BY 3.0 ES)](https://creativecommons.org/licenses/by/3.0/es/).
+Este proyecto y su fundamentación teórica, basada en el Trabajo de Final de Grado original, se distribuyen bajo la licencia [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 _Abril 2026_
